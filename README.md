@@ -1,7 +1,7 @@
 ##  Aplicacion del clima - Curso Node
 
 
-Recuerden ejecutar ```npm instal``` para las librerias
+Recuerden ejecutar ```npm install``` para las librerias
 
 ###    Ejemplo:
 ```
